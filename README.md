@@ -4,7 +4,7 @@ A conversational chatbot built in Python using Streamlit and the OpenAI LLM mode
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://openai-chatbot-elsxwdx4ucpr9uhjqyfkah.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://openai-chatbot-en8eohcse6bxeagdpwccjk.streamlit.app/)
 
 ## Prerequisite libraries
 
